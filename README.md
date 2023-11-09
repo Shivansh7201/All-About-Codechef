@@ -4,7 +4,8 @@ That sounds like a fantastic initiative! Here's a creative and concise descripti
 # CodeChef Solutions Hub 🚀
 
 <p align="center">
-  <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwEBBgEIBwEKCgkLDQoDDQwMDRsUFRAKIB0iIiAdHx8kKDQsJCYxJx8fLT0tJTU3Ojo6LSszRD8tPTQ5OjcBCgoKDQ0NDgUPDjcZHxk3KysrKzcrNzc3KzcrKysrNzcrKysrKysrKysrKzcrNysrKysrNysrKzc3KysrKys3K//AABEIABAAEAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAADBAL/xAAnEAABAwEHAwUAAAAAAAAAAAABAgMEEQAFBgcIEjEUFyETIkFxgf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAVEQEBAAAAAAAAAAAAAAAAAAAhAP/aAAwDAQACEQMRAD8AsahY1zD76TputVcCKmW7h1Clb17n+aUB8CnzbYu/EeSpyXcla+D1TnTX4iKN53sFQp7uKkeaGwN3hqbyKez3jDTGiXGXJcvgNyY5WlL1SNw/LIzemqLM7tFFlaUmlFKmLrTIMU+ohgKBAB4AH1YxJb//2Q==" alt="CodeChef Logo">
+  <img src="![download](https://github.com/Shivansh7201/All-About-Codechef/assets/105603160/fc97a7b3-6f38-4ed0-ac3f-9cffc401171c)
+" alt="CodeChef Logo">
 </p>
 
 Welcome to the CodeChef Solutions Hub, your go-to repository for conquering CodeChef problems! 🌟 Here, we've curated a collection of diverse programming language solutions to help you master the art of coding.
