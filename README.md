@@ -4,7 +4,7 @@ That sounds like a fantastic initiative! Here's a creative and concise descripti
 # CodeChef Solutions Hub 🚀
 
 <p align="center">
-  <img src="C:\Users\HP\OneDrive\Documents\lumenor fundamentals\download.png" alt="CodeChef Logo">
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.startuptalky.com%2F2021%2F04%2Fcodechef-logo-startuptalky.jpg&tbnid=SXJViUiGTEIZPM&vet=12ahUKEwji7vj1q7eCAxUkUWwGHS2uB20QMygCegQIARBw..i&imgrefurl=https%3A%2F%2Fstartuptalky.com%2Fcodechef-success-story%2F&docid=lO2DTG-aqmjTUM&w=1200&h=675&q=codechef&ved=2ahUKEwji7vj1q7eCAxUkUWwGHS2uB20QMygCegQIARBw" alt="CodeChef Logo">
 </p>
 
 Welcome to the CodeChef Solutions Hub, your go-to repository for conquering CodeChef problems! 🌟 Here, we've curated a collection of diverse programming language solutions to help you master the art of coding.
