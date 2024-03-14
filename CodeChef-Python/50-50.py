@@ -9,3 +9,5 @@ for _ in range(t):
         print("A")
 
 """like share & Subscribe"""
+
+
