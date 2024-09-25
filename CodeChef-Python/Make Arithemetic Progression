@@ -1,0 +1,8 @@
+t=int(input())
+for _ in range(t):
+    z,x,c=map(int,input().split())
+    if 2*x == z+c:
+        print("0")
+    else:
+        print("1")
+    
